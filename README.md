@@ -37,6 +37,10 @@ In this section, all the commands you need to know to play :
 - By using the medkit, you earn a life,
 - If you are in the same room as the killer, a skill test starts (calculation or writing a letter). If you succeed, you dodge the hit else you lose a life,
 - The presence of a generator or object in a room is indicated next to the room name in brackets.
+
+**Note :** Some values such as the number of lives, skill tests, the number of items, of generators can be modified in the "customPreset.txt" file. Don't modify the values in "defaultPreset.txt" file.
+
+> Your statistics are also available in "saveData.txt" file.
   
 <p align="center">
   <img width="720" alt="Example" src="https://user-images.githubusercontent.com/73184884/129604228-b9d067db-f9a5-4edd-82eb-d0ba9495a3ee.png">
