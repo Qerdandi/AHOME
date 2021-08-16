@@ -40,7 +40,7 @@ In this section, all the commands you need to know to play :
 
 **Note :** Some values such as the number of lives, skill tests, the number of items, of generators can be modified in the "customPreset.txt" file. Don't modify the values in "defaultPreset.txt" file.
 
-> Your statistics are also available in "saveData.txt" file.
+> Your statistics are also available in "saveData.txt" file. You can delete the old one (his creation is automatic).
   
 <p align="center">
   <img width="720" alt="Example" src="https://user-images.githubusercontent.com/73184884/129604228-b9d067db-f9a5-4edd-82eb-d0ba9495a3ee.png">
