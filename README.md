@@ -1,6 +1,6 @@
 # AHOME
 ## Context:
-It's as part of a school project (in duo) of 2nd year of engineering school that we started programming the horror and action game Dead by Daylight in a text version. The game uses same "gameplay" of Dead by Daylight. The goal is to repair 3 generators to escape the place and a killer who is looking for you.
+It's as part of a school project (in duo) of 2nd year of engineering school that we started programming an horror, action and survival game in a text version in the terminal. The goal is to repair 3 generators to escape the place and a killer who is looking for you.
 
 ## Available:
 The game was coded in Java on IntelliJ. 
