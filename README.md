@@ -27,7 +27,7 @@ In this section, all the commands you need to know to play :
 
 **Note :** Words partially written or with small misspellings will be understood by the game. Capital letters are not taken into account.
 
-## Characteristics:
+## Features:
 - Two difficulty modes are available and result in different maps and faster skill tests,
 - Map and information are displayed in the terminal and the player represented by a star,
 - Player has two lives,
