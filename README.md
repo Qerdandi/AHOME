@@ -5,12 +5,6 @@ It’s as part of a school project (in duo) of 2nd year of engineering school th
 ## Gameplay:
 The goal is to repair 3 generators to escape the place and a killer who is looking for you. You can also collect items such as a medical kit or a toolbox to give you an advantage in your game. Be careful, if the killer finds you, you will have to be fast to escape. 
 
-## Available:
-If you want to play and test this game, you just need to download "AHOME The Game" in ralease section. Then to launch it, open the run.bat file. The game can be played on all devices which have java and a terminal or command guest. 
-
-> An English version may appear.
-
-## Commands:
 In this section, all the commands you need to know to play :
 - `help` : show all commands available,
 - `quit` : quit the game,
@@ -44,6 +38,11 @@ In this section, all the commands you need to know to play :
 <p align="center">
   <img width="720" alt="Example" src="https://user-images.githubusercontent.com/73184884/129604228-b9d067db-f9a5-4edd-82eb-d0ba9495a3ee.png">
 </p>
+
+## Available:
+If you want to play and test this game, you just need to download "AHOME The Game" in ralease section. Then to launch it, open the run.bat file. The game can be played on all devices which have java and a terminal or command guest. 
+
+> An English version may appear.
 
 ## State:
 - [ ] Work in progress
