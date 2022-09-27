@@ -1,13 +1,12 @@
 # AHOME
 ## Context:
-It's as part of a school project (in duo) of 2nd year of engineering school that we started programming an horror, action and survival game in a text version in the terminal. The goal is to repair 3 generators to escape the place and a killer who is looking for you.
+It’s as part of a school project (in duo) of 2nd year of engineering school that we started programming an horror, action and survival game in a text version in the terminal. We were also inspired by the gameplay of the horror game Dead by Daylight.
+
+## Gameplay:
+The goal is to repair 3 generators to escape the place and a killer who is looking for you. You can also collect items such as a medical kit or a toolbox to give you an advantage in your game. Be careful, if the killer finds you, you will have to be fast to escape. 
 
 ## Available:
-The game was coded in Java on IntelliJ. 
-
-> Source code is not available.
-
-If you want to play and test this game, you just need to download "AHOME The Game" folder only. Then to launch it, open the run.bat file. The game can be played on all devices which have java and a terminal or command guest. 
+If you want to play and test this game, you just need to download "AHOME The Game" in ralease section. Then to launch it, open the run.bat file. The game can be played on all devices which have java and a terminal or command guest. 
 
 > An English version may appear.
 
