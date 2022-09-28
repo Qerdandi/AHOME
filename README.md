@@ -19,7 +19,7 @@ In this section, all the commands you need to know to play :
   <img width="720" alt="Commands" src="https://user-images.githubusercontent.com/73184884/129604721-1cde155e-a64e-4375-a12d-c90b14ea21c1.png">
 </p>
 
-**Note :** Words partially written or with small misspellings will be understood by the game. Capital letters are not taken into account.
+> Words partially written or with small misspellings will be understood by the game. Capital letters are not taken into account.
 
 ## Features:
 - Two difficulty modes are available and result in different maps and faster skill tests,
@@ -32,7 +32,7 @@ In this section, all the commands you need to know to play :
 - If you are in the same room as the killer, a skill test starts (calculation or writing a letter). If you succeed, you dodge the hit else you lose a life,
 - The presence of a generator or object in a room is indicated next to the room name in brackets.
 
-**Note :** Some values such as the number of lives, skill tests, the number of items, of generators can be modified in the "customPreset.txt" file. Don't modify the values in "defaultPreset.txt" file.
+> Some values such as the number of lives, skill tests, the number of items, of generators can be modified in the "customPreset.txt" file. Don't modify the values in "defaultPreset.txt" file.
 
 > Your statistics are also available in "saveData.txt" file. You can delete the old one (his creation is automatic).
   
